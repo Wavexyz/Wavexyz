@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Wavexyz
-- 👀 I’m interested in JS and Solidity.
-- ❤️ New here.
+Building stuff
